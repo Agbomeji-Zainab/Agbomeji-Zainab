@@ -18,7 +18,7 @@ I am currently pursuing my Master's in Data Science at Manchester Metropolitan U
 
 ### [Calories Burned Prediction with Decision Trees](https://github.com/Agbomeji-Zainab/GMET-Project)
 In this project, I developed a machine learning model to predict the number of calories burned based on various factors such as age, weight, and other activity in a Gym Dataset. I used a Decision Tree classifier to build the model.
-- **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib
+- **Tech Stack**: Python, Pandas, seaborn, Scikit-learn, Matplotlib
 - **Key Techniques**: Decision Tree, Model Evaluation
 - **Outcome**: The decision tree model performed well in predicting the number of calories burned, with an R² score of 0.7633 on the test data.
 
