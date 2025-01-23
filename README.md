@@ -22,11 +22,3 @@ In this project, I developed a machine learning model to predict the number of c
 - **Key Techniques**: Decision Tree, Model Evaluation
 - **Outcome**: The decision tree model performed well in predicting the number of calories burned, with an R² score of 0.7633 on the test data.
 
-## 📈 GitHub Stats
-
-![Agbomeji Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agbomeji-Zainab&show_icons=true&theme=radical)
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agbomeji-Zainabe&layout=compact&theme=radical)
-
-
