@@ -16,7 +16,7 @@ I am currently pursuing my Master's in Data Science, and I have hands-on experie
 
 ## 🌟 Featured Project
 
-### [Calories Burned Prediction with Decision Trees](https://github.com/your-repo)
+### [Calories Burned Prediction with Decision Trees](https://github.com/Agbomeji-Zainab/GMET-Project)
 In this project, I developed a machine learning model to predict the number of calories burned based on various factors such as age, weight, and activity duration. I used a Decision Tree classifier to build the model, tuned hyperparameters for optimal performance, and evaluated the model using metrics like accuracy, precision, and recall.
 
 - **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib
