@@ -9,7 +9,7 @@ I am currently pursuing my Master's in Data Science at Manchester Metropolitan U
 ## 🛠️ Skills & Technologies
 - **Programming Languages**: Python, SQL, R
 - **Libaries**: Pandas, Numpy, Scikit-Learn
-- **Data B Visualization**: Matplotlib, Seaborn
+- **Data Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Supervised/Unsupervised Learning
 - **Tools**: Jupyter Notebook, Google Colab
 
