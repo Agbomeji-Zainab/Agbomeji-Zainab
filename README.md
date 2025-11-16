@@ -1,24 +1,65 @@
-# Hello, I'm Agbomeji Zainab! 👋
+# 👋 Hello, I'm Agbomeji Zainab!
 
-## 🎓 MSc Data Science Student | Passionate about transforming raw data into insights ✨
+## 💡 Data Analyst | Data Science & Machine Learning Practitioner
 
-I am currently pursuing my Master's in Data Science at Manchester Metropolitan University, United Kingdom, and I have hands-on experience in building machine learning models, analyzing data, and using statistical techniques to extract insights. I enjoy working with Python and its powerful data science libraries, and I am continuously learning and expanding my skill set.
+I am a data professional with a strong foundation in Computer Science and advanced training in Data Science. I enjoy transforming raw data into meaningful insights and building machine learning models that solve real-world problems. My work spans data analysis, data preprocessing, statistical modeling, forecasting, and applied machine learning.
 
-- 🌱 I’m currently learning **Deep Learning**, **Neural Networks**, and **Advanced Machine Learning Techniques**
+I am passionate about continuous learning, exploring new technologies, and expanding my problem-solving skills through hands-on projects and research.
 
-## 🛠️ Skills & Technologies
-- **Programming Languages**: Python, SQL, R
-- **Libaries**: Pandas, Numpy, Scikit-Learn
-- **Data Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Supervised/Unsupervised Learning
-- **Tools**: Jupyter Notebook, Google Colab
+---
 
+## 🔧 Skills & Technologies
 
-## 🌟 Featured Project
+### **Programming & Databases**
+- Python  
+- SQL  
+- R  
 
-### [Calories Burned Prediction with Decision Trees](https://github.com/Agbomeji-Zainab/GMET-Project)
-In this project, I developed a machine learning model to predict the number of calories burned based on various factors such as age, weight, and other activity in a Gym Dataset. I used a Decision Tree classifier to build the model.
-- **Tech Stack**: Python, Pandas, seaborn, Scikit-learn, Matplotlib
-- **Key Techniques**: Decision Tree, Model Evaluation
-- **Outcome**: The decision tree model performed well in predicting the number of calories burned, with an R² score of 0.7633 on the test data.
+### **Data Analysis & Processing**
+- Pandas  
+- NumPy  
+- Scikit-learn  
+
+### **Data Visualization**
+- Matplotlib  
+- Seaborn  
+- Power BI  
+- Excel  
+
+### **Machine Learning**
+- Supervised Learning  
+- Unsupervised Learning  
+- Time Series Forecasting  
+- Model Evaluation  
+- Feature Engineering  
+
+### **Tools**
+- Jupyter Notebook  
+- Google Colab  
+- Git & GitHub  
+
+---
+
+## 🌟 Featured Project  
+### **Calories Burned Prediction using Decision Trees**
+
+In this project, I developed a machine learning model to predict the number of calories burned based on features such as age, weight, gender, and other activity variables from a fitness dataset.
+
+**Tech Stack:** Python, Pandas, Seaborn, Scikit-learn, Matplotlib  
+**Key Techniques:** Decision Tree algorithm, Data Preprocessing, Model Evaluation  
+**Outcome:** Achieved an R² score of **0.7633** on the test data, showing strong predictive performance.
+
+---
+
+## 📌 What I’m Currently Exploring
+- Deep Learning  
+- Neural Networks  
+- Advanced Machine Learning Techniques  
+- Deployment of ML models  
+
+---
+
+## 🤝 Let’s Connect
+I am always open to collaborating on data projects, contributing to open-source work, or discussing machine learning ideas.  
+Feel free to reach out or explore my repositories to see my work!
 
