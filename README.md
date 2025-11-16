@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Agbomeji Zainab!
+# 👋 Hello, I'm Agbomeji Zainab Kanyisola!
 
 ## 💡 Data Analyst | Data Science & Machine Learning Practitioner
 
